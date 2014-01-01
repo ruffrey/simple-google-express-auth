@@ -1,0 +1,29 @@
+{
+  "name": "simple-google-express-auth",
+  "version": "0.1.1",
+  "description": "Google authentication in like one step.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ruffrey/simple-google-express-auth"
+  },
+  "keywords": [
+    "google",
+    "openId",
+    "authentication",
+    "express"
+  ],
+  "author": "Jeff Parrish",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/ruffrey/simple-google-express-auth/issues"
+  },
+  "homepage": "https://github.com/ruffrey/simple-google-express-auth",
+  "dependencies": {
+    "passport": "~0.1.17",
+    "passport-google": "~0.3.0"
+  }
+}
